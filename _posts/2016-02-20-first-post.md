@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A E S T H I C"
-date: 2014-04-30
+date: 2016-02-20
 ---
 
-finna post some spicy memes - shoutout to my boy vincent [V I N C E N T](google.com) 
+finna post some spicy memes - shoutout to my boy [V I N C E N T](http://vincentliaw.me) 
