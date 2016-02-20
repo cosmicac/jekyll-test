@@ -1,2 +1,2 @@
 # cosmicac.github.io
-website
+This is my personal meme
